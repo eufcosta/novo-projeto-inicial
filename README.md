@@ -1,2 +1,2 @@
-# novo-projeto-nincial
+# novo-projeto-inicial
 Primeiro projeto de aprendizagem de programação
